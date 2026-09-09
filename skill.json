@@ -1,0 +1,17 @@
+{
+  "name": "genpark-douglas-peucker-polyline-simplification-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Douglas-Peucker Recursive Polyline Decimation & Trajectory Simplification Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "computational-geometry",
+    "polyline-simplification",
+    "douglas-peucker",
+    "trajectory-compression"
+  ]
+}
